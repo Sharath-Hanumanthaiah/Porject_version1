@@ -8,3 +8,4 @@ Personal Todo manager
   - Due date
   - User_name    
 - Edit existing tasks
+- Mark process as complete or pending.
