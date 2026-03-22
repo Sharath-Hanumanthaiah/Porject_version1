@@ -1,6 +1,5 @@
 # Todo-manager
 Personal Todo manager
-
 ## Functional Requirements
 - Add new tasks with: 
   - Title 
