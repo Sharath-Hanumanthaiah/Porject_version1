@@ -9,4 +9,3 @@ Personal Todo manager
    -status
   - User_name    
 - Edit existing tasks
--Mark status as completed and pending.
