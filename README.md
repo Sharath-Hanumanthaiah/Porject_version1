@@ -7,3 +7,4 @@ Personal Todo manager
   - Priority
   - User_name    
 - Edit existing tasks
+-Mark status as completed and pending.
