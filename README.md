@@ -5,6 +5,7 @@ Personal Todo manager
   - Title 
   - Description
   - Priority
+  - date
   - User_name    
 - Edit existing tasks
 -Mark status as completed and pending.
