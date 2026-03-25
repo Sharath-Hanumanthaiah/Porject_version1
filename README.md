@@ -15,5 +15,4 @@ Personal Todo manager
 - create user with
     - UserName
     - email
-    - company
     
