@@ -4,8 +4,7 @@ Personal Todo manager
 ## Functional Requirements
 - Add new tasks with: 
   - Title 
-  - Description
-  - Priority
+  - Description 
   - due date
   - User_name    
 - Edit existing tasks
