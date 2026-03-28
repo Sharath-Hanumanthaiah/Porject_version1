@@ -5,7 +5,6 @@ Personal Todo manager
 - Add new tasks with: 
   - Title 
   - Description 
-  - due date
   - end date
   - Start date
   - Status   
