@@ -6,9 +6,6 @@ Personal Todo manager
   - Title 
   - Description 
   - due date
-  - User name
-  - Start date
-  - end date
   - Status   
 - Edit existing tasks
 - Mark status as completed, inprogress and pending.
