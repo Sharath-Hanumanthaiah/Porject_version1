@@ -7,6 +7,7 @@ Personal Todo manager
   - Description 
   - due date
   - User name
+  - Start date
   - Status   
 - Edit existing tasks
 - Mark status as completed, inprogress and pending.
