@@ -6,7 +6,6 @@ Personal Todo manager
   - Title 
   - Description 
   - due date
-  - end date
   - Start date
   - Status
   -  UserName
