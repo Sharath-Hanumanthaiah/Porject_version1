@@ -5,6 +5,8 @@ Personal Todo manager
 - Add new tasks with: 
   - Title 
   - Description
+  - Due Date
+  - User Name
   - Status
 - Edit existing tasks
 - Mark status as completed, inprogress and pending.
