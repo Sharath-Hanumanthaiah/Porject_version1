@@ -15,3 +15,8 @@ Personal Todo manager
 ## validation
 task title should be minimum 5 word
 Due date should be greater than current date
+
+## User Management
+- create user with
+    - UserName
+    - email
