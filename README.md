@@ -16,3 +16,8 @@ Personal Todo manager
 - create user with
     - UserName
     - email
+
+
+#validation
+task title should be minimum 5 word
+Due date should be greater than current date
