@@ -9,4 +9,9 @@ Personal Todo manager
   - Status   
 - Edit existing tasks
 - Mark status as completed, inprogress and pending.
+
+
+#validation
+task title should be minimum 5 word
+Due date should be greater than current date
     
