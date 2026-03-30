@@ -8,7 +8,6 @@ Personal Todo manager
   - due date
   - End date
   - Status  
-  - start date 
 - Edit existing tasks
 - Mark status as completed, inprogress, on-hold and pending.
 
@@ -18,7 +17,6 @@ Personal Todo manager
     - UserName
     - email
     - password
-    - Last name
 
 #validation
 task title should be minimum 5 word
