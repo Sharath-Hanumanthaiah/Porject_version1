@@ -6,6 +6,7 @@ Personal Todo manager
   - Title 
   - Description 
   - due date
+  - End date
   - Status  
   - start date 
 - Edit existing tasks
