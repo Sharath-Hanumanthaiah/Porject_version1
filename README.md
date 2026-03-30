@@ -9,7 +9,7 @@ Personal Todo manager
   - End date
   - Status  
 - Edit existing tasks
-- Mark status as completed, inprogress, on-hold and pending.
+- Mark status as completed, inprogress, and pending.
 
 
 #User Management
