@@ -10,3 +10,9 @@ Personal Todo manager
   - start date 
 - Edit existing tasks
 - Mark status as completed, inprogress and pending.
+
+
+#User Management
+- create user with
+    - UserName
+    - email
