@@ -8,7 +8,7 @@ Personal Todo manager
   - due date
   - Status  
 - Edit existing tasks
-- Mark status as completed, inprogress, and pending.
+- Mark status as completed, and pending.
 
 
 #User Management
