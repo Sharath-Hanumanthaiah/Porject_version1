@@ -18,7 +18,6 @@ Personal Todo manager
     - UserName
     - email
     - password
-    - Lastname
 
 #validation
 task title should be minimum 5 word
