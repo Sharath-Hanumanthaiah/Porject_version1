@@ -11,6 +11,12 @@ Personal Todo manager
 - Mark status as completed, and pending.
 
 
+#User Management
+- create user with
+    - UserName
+    - email
+    - password
+
 #validation
 task title should be minimum 5 word
 Due date should be greater than current date
